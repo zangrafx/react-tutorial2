@@ -1,0 +1,28 @@
+{
+    "author": "zangrafx <zangrafx@gmail.com>",
+    "dependencies": {
+        "gulp": "3.x",
+        "react": "0.x"
+
+    },
+    "description": "Less plugin for gore-gulp.",
+    "devDependencies": {
+        "gore-gulp": "0.x",
+        "babel-eslint": "3.x",
+        "eslint-plugin-react": "2.x",
+        "gulp-eslint": "0.x",
+        "gulp": "3.x"
+    },
+    "engines": {
+        "node": ">=0.10"
+    },
+    "keywords": [
+        "react"
+    ],
+    "directories": {
+        "dist": "output",
+        "lib": "src"
+    },
+    "name": "react-tutorial2",
+    "version": "0.0.0"
+}
