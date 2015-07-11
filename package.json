@@ -20,8 +20,8 @@
         "react"
     ],
     "directories": {
-        "dist": "output",
-        "lib": "src"
+        "dist": "s",
+        "lib": "web_modules"
     },
     "name": "react-tutorial2",
     "version": "0.0.0"
